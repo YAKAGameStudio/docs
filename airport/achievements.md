@@ -3,5 +3,5 @@ Airport Manager's achievement list can be accessed by pressing ESC button (in PC
 As of today, there are a total of 35 achievements listed.
 ## Achievement List
 Achievement | Description
------------ | ------------
+- | -
 Famous | Hire someone famous
